@@ -121,4 +121,7 @@
                                 MouseLeftButtonDown="pnlControlBar_MouseLeftButtonDown"
                                 MouseEnter="pnlControlBar_MouseEnter">        
                     
-</Window>                        
+</Window>       
+                    
+                    <<!--Kia banda hai tu-->
+                        
